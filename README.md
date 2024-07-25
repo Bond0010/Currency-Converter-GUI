@@ -1,6 +1,6 @@
 # Currency-Converter-GUI
 
-A Python application that converts currencies using real-time exchange rates. Features a simple Tkinter-based GUI for an intuitive user experience. Ideal for learning, demonstrating skills in Python, GUI development, and API integration.
+A Python application that converts currencies using real-time exchange rates. Features a simple Tkinter-based GUI for an intuitive user experience. Ideal for learning, demonstrating skills in Python, GUI development, and API integration. NOTE: FOR WINDOWS OPERATING SYSTEM ONLY.
 =======================
 
 ## Key Features
